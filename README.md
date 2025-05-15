@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System
 
-This Movie Recommender System uses **content-based filtering** to suggest movies tailored to a user's preferences. It analyzes movie metadata (genres, descriptions, keywords, etc.) to recommend similar films based on previous likes. Built with **machine learning** and deployed using **Streamlit**, it offers an interactive and easy-to-use web interface.
+This Movie Recommender System uses **content-based filtering** to suggest movies tailored to a user's preferences. It analyzes movie metadata (genres, descriptions, keywords, etc.) to recommend similar films based on previous likes. Built with **machine learning** and deployed using **Streamlit**, it offers an interactive and easy-to-use web interface. Currently I have used render to deploy it which makes it slow for the first time.
 
 ## 🔧 Technologies Used
 - Python
@@ -18,6 +18,7 @@ This Movie Recommender System uses **content-based filtering** to suggest movies
 
 ## 📸 Demo
 - https://movie-recommender-1-zv9q.onrender.com
+  (will run slow for the first time and may throw some error)
 
 ## 📌 Future Improvements
 - Add collaborative filtering
